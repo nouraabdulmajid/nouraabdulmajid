@@ -10,6 +10,9 @@ Welcome to my GitHub profile!
 
 ### Please ask to be added as a collaborator to view my private repositories, which include the following projects:
 
-* A data structures and algorithms program in Java, which features a solution to a complex problem
-* An interactive text-based adventure game in Java
+* A Java Data Structures and Algorithms program
+  * The program features optimal selection of data structures, and searching and sorting algorithms, for various applications.
+  * It also features solutions to problems that are intermediate-to-advanced in terms of difficulty.
+* A Java text-based adventure game
+  * The game allows the player to work for funds, pack, and go travelling in the game, through interacting with the program via a text-based UI.
   
